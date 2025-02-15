@@ -986,10 +986,16 @@ body {
   animation-play-state: paused !important;
 }
 
-/*.manuscript-text {
-  font-family: 'Dancing Script', cursive;
-  font-size: 2em; /* Ajusta el tamaño de la fuente según tus necesidades */
-/*color: #D3B5F0; /* Puedes cambiar el color del texto */
-/*position: absolute; /* Si necesitas posicionarlo en un lugar específico */
-/*top: 20px; /* Ajusta según sea necesario */
-/*left: 20px; /* Ajusta según sea necesario */
+.manuscript-text {
+  font-family: "Dancing Script", cursive;
+  font-size: 2em;
+  /* Ajusta el tamaño de la fuente según tus necesidades */
+  color: #D3B5F0;
+  /* Puedes cambiar el color del texto */
+  position: absolute;
+  /* Si necesitas posicionarlo en un lugar específico */
+  top: 20px;
+  /* Ajusta según sea necesario */
+  left: 20px;
+  /* Ajusta según sea necesario */
+}
